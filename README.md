@@ -1,5 +1,9 @@
 # **NLP-Projects**
 ---
+### **Topic Modeling**
+- Developed Topic Modeling system using Bert topic on saudinewsnet dataset.
+- Converted unstructured data to structured one each doc belongs to a certain topic.
+- Tested the model, got got results.
 
 ### **Semantic Search:**
 - Developed Semantic Search system using sentence-transformer on the Quora dataset to retrieve relevant docs based on input queries.
